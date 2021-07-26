@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Olivervesth
+- 👋 Hi, I’m @Oliver
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning a lot of new things
 - 💞️ I’m looking to collaborate on nothing at the minut
